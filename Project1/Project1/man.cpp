@@ -1,1 +1,9 @@
-#include<>
+#include<stdio.h>
+
+int main()
+{
+	int a,b;
+	printf("Enter two numbers:");
+	
+	return 0;
+}	

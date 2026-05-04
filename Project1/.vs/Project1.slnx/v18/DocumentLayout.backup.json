@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "man.cpp",
               "DocumentMoniker": "D:\\rebegin\\Project1\\Project1\\man.cpp",
               "RelativeDocumentMoniker": "Project1\\man.cpp",
-              "ToolTip": "D:\\rebegin\\Project1\\Project1\\man.cpp",
-              "RelativeToolTip": "Project1\\man.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "ToolTip": "D:\\rebegin\\Project1\\Project1\\man.cpp*",
+              "RelativeToolTip": "Project1\\man.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-02T07:46:38.091Z",
               "EditorCaption": ""
